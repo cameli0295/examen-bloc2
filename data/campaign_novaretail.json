@@ -1,0 +1,26 @@
+[
+  {
+    "campaign_id": "NR01",
+    "channel": "Emailing",
+    "cost": 1500,
+    "impressions": 60000,
+    "clicks": 1800,
+    "conversions": 150
+  },
+  {
+    "campaign_id": "NR02",
+    "channel": "Google Ads",
+    "cost": 4200,
+    "impressions": 120000,
+    "clicks": 3200,
+    "conversions": 260
+  },
+  {
+    "campaign_id": "NR03",
+    "channel": "LinkedIn Ads",
+    "cost": 3800,
+    "impressions": 50000,
+    "clicks": 1100,
+    "conversions": 95
+  }
+]
